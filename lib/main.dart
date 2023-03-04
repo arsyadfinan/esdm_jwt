@@ -1,4 +1,4 @@
-import 'package:esdm_rsui_klaten/page/splashscreen.dart';
+import 'package:esdm_rsui_klaten/page/logincheck.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
